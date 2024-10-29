@@ -1,0 +1,93 @@
+/* Small devices (phones, up to 600px) */
+@media (max-width: 600px) {
+  /* Container & Article */
+  article {
+    width: 90%;
+    margin: 4.8rem auto;
+    padding: 2.4rem;
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 3.2rem;
+  }
+  h2 {
+    font-size: 2.4rem;
+  }
+
+  /* Lists and Tables */
+  ul,
+  ol {
+    margin-left: 1.2rem;
+  }
+
+  li {
+    padding-left: 1.2rem;
+  }
+
+  td {
+    padding-left: 2.4rem;
+  }
+}
+
+/* Medium devices (tablets, 600px to 1024px) */
+@media (min-width: 600px) and (max-width: 1024px) {
+  /* Container & Article */
+  article {
+    width: 70%;
+    margin: 8rem auto;
+    padding: 3.2rem;
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 3.6rem;
+  }
+  h2 {
+    font-size: 2.6rem;
+  }
+
+  /* Lists and Tables */
+  ul,
+  ol {
+    margin-left: 1.6rem;
+  }
+
+  li {
+    padding-left: 1.8rem;
+  }
+
+  td {
+    padding-left: 2.8rem;
+  }
+}
+
+/* Large devices (desktops, 1024px and above) */
+@media (min-width: 1024px) {
+  /* Adjust article width */
+  article {
+    width: 50%;
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 4.4rem;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+
+  /* Adjust padding in lists and tables */
+  ul,
+  ol {
+    margin-left: 2.4rem;
+  }
+
+  li {
+    padding-left: 2.4rem;
+  }
+
+  td {
+    padding-left: 3.6rem;
+  }
+}
