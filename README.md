@@ -36,7 +36,7 @@ This project was designed to:
 ### Links
 
 - [Solution URL](https://github.com/itserffan/recipe-page-main) - Add your GitHub solution URL here
-- [Live Site URL](https://yourusername.github.io/recipe-page) - Add your live site URL here
+- [Live Site URL]([https://yourusername.github.io/recipe-page](https://frontendmentor-recipe-main-page.netlify.app/))
 
 ## My Process
 
