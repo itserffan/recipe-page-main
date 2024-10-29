@@ -35,7 +35,7 @@ This project was designed to:
 
 ### Links
 
-- [Solution URL](https://github.com/yourusername/recipe-page) - Add your GitHub solution URL here
+- [Solution URL](https://github.com/itserffan/recipe-page-main) - Add your GitHub solution URL here
 - [Live Site URL](https://yourusername.github.io/recipe-page) - Add your live site URL here
 
 ## My Process
@@ -92,9 +92,9 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
+- Frontend Mentor - [@erfansoleimanii](https://www.frontendmentor.io/profile/erfansoleimanii)
+- GitHub - [@itserffan](https://github.com/itserffan)
+- Twitter - [@itserffan](https://www.twitter.com/itserffan)
 
 ## Acknowledgments
 
