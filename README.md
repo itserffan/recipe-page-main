@@ -92,9 +92,8 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Frontend Mentor - [@erfansoleimanii](https://www.frontendmentor.io/profile/erfansoleimanii)
+- Frontend Mentor - [@erfansoleimanii](https://www.frontendmentor.io/profile/itserffan)
 - GitHub - [@itserffan](https://github.com/itserffan)
-- Twitter - [@itserffan](https://www.twitter.com/itserffan)
 
 ## Acknowledgments
 
